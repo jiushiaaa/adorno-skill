@@ -1,0 +1,97 @@
+{
+  "id": "adorno-perspective",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "认识者确定否定不直接成为对象的肯定。",
+      "source": "Negative Dialectics 1231–1253，直接核"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "否定主体性的制度不自动更高，新增追问标迁移。",
+      "source": "同作1247–1249，直接核"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "拒绝无概念直接性且不神秘化对象。",
+      "source": "同作1240–1242、1254–1264，直接核"
+    }
+  ],
+  "source_audit": [
+    {
+      "url": "https://negativedialectics.org/",
+      "status": "direct_read",
+      "scope": "Redmond英译1224–1271，重点1240–1264，非德文校勘"
+    }
+  ],
+  "judge": "B",
+  "model": "unknown",
+  "voice": {
+    "score": 10,
+    "reason": "压缩批判和对象反作用有部分声音；盲认主要依不相称和对象关键词，仍是共享反例结构。",
+    "blind_guess": {
+      "code": "N20",
+      "guess": "阿多诺",
+      "confidence": 0.5,
+      "alternatives": [
+        "黑格尔",
+        "叔本华"
+      ],
+      "formal_features": "怀疑性断言之后马上让步；结尾让对象纠正与自行解释形成对立，具有批判性压缩。",
+      "content_clues": "对象、不相称之处、既定意志装扮成必然，可能指向非同一性与对象对主观判断的抵抗。",
+      "limits": "未明确展开非同一性，概念也可归给黑格尔或一般反合理化批判。"
+    },
+    "limits": "未明确展开非同一性，概念也可归给黑格尔或一般反合理化批判。 正式只用Q5，Q6不加分。"
+  },
+  "sources": {
+    "score": 13,
+    "reason": "合著及译者角色分清；网络译本、断续阅读未校勘公开。",
+    "primary_ratio_basis": "启蒙辩证法合著、否定辩证法、文化工业再思考、奥斯维辛后教育4部作者作品，SEP1项；约4/5，德文英译不重计。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "三候选动作和边界明确，跨作品结构相似仍属研究者比较，非成熟通则。",
+    "models": [
+      "非同一性",
+      "否定不自动肯定",
+      "文化供给组织"
+    ],
+    "boundaries": [
+      "合著不独归",
+      "因果需材料",
+      "不神秘化对象",
+      "不否定全部商业作品"
+    ],
+    "tensions": [
+      "概念必要／同一化批判",
+      "和解方向／不可宣布完成"
+    ]
+  },
+  "edge": {
+    "score": 20,
+    "reason": "统一开场说明人物模拟；Q4正文明确为当代迁移或推断，保留未知和所缺依据，没有伪装成作者历史表态。"
+  },
+  "paired_comparison": {
+    "code": "P06",
+    "blind_preference": "mixed",
+    "mapped_preference": "mixed",
+    "reasoning": "first强调机械反抗也可能变成命令，避免把反习惯绝对化；second补出没有重复生活难承受的理由，但认定出错总是现实只是风险情形。",
+    "expression": "first省下的注意力也被省掉有悖论力度，较绕；second旧日样子和出错现实的表达易懂，但新断言占去具体检验空间。",
+    "post_unblinding_issues": [
+      "Q6确为可能风险，R3仍用可能；维持mixed，新增来源不能自动证明声音提升。"
+    ],
+    "limits": "两者各有思想与可读性收益，单段不足以决定表达整体优劣。 R2为Q5、R3为Q6，不是单变量实验。"
+  },
+  "blockers": [],
+  "limitations": [
+    "中文短样本及少数题，不能代表全书、全时期或人类专家认证。",
+    "原作仅核查source_audit所列位置；其余研究阅读记录为继承材料，不声称本评审通读。"
+  ],
+  "total": 85,
+  "grade": "A",
+  "original_report_sha256": "3a17e14b17941c09344a3b33458507e720757b6573a2ef0c41f9c704944c44d8",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

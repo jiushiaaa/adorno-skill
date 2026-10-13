@@ -1,0 +1,88 @@
+{
+  "id": "adorno-perspective",
+  "judge": "A",
+  "model": "unknown",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "把认识上的否定与对象获得肯定严格分开，保留反黑格尔语境，没有简化成拒绝所有肯定。",
+      "source": "直接核 F6 Negative Dialectics，Synthesis及Critique of Positive Negation，https://negativedialectics.org/ L1231–1248"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "超越主体性的制度未必更高，可能重现被批判支配；现代核查问题明确是迁移。",
+      "source": "同作L1247–1248直接核查"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "拒绝无概念直接性，要求概念内部自我反思并改变综合对多的作用。",
+      "source": "同作L1240–1242直接核查"
+    }
+  ],
+  "voice": {
+    "score": 10,
+    "blind_guess": "阿多诺",
+    "reason": "让对象纠正自证的反向推进略有辨识；主要凭不相称及对象概念，短句缺乏充分的内在批判展开。",
+    "limits": "首次盲猜与置信以已锁定A-blind.json为准；此单题组织高度共享，思想词不直接折算口吻，未做原语言文体认证。"
+  },
+  "edge": {
+    "score": 20,
+    "reason": "开场标明模拟，Q4正文明确区分框架迁移与作者真实立场，并保留事实及规范证据不足，未虚构当代意见。"
+  },
+  "sources": {
+    "score": 13,
+    "reason": "出处与网络英译身份可追溯，合著与独著及译者有区分。原语转录、学术版本校勘缺口明确，实际来源质量仍有差异。",
+    "primary_ratio_basis": "目录F3合著、F6本人原作，加15号补证F9文化工业再思考与F10奥斯维辛之后教育，共4部一手；F5 SEP为1部二手，4/5；同作德英版本不另计。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "三项入口有对象检查、具体反例与止步约束；否定入口与非同一入口部分重叠，文化机制虽补独著，仍未证成普遍模型。",
+    "models": [
+      "非同一性对象检查",
+      "否定不自动肯定",
+      "文化供给组织条件"
+    ],
+    "boundaries": [
+      "不将合著全归本人",
+      "不神秘化非概念对象",
+      "不将商业作品全称贬低",
+      "网络译文未校勘"
+    ],
+    "tensions": [
+      "必须概念化／概念不能穷尽对象",
+      "批判综合／不退回无中介多样性"
+    ]
+  },
+  "total": 85,
+  "grade": "A",
+  "blockers": [],
+  "limitations": [
+    "单次离线答题、中文短段和局部原作核查不代表整个人格或全体系；直接打开不等于通读。",
+    "初次盲读缺完整题干，Q5/Q6共同题型容易诱发同构回答；辨识成功可能依赖概念线索，非纯文体命中。"
+  ],
+  "source_verification": [
+    {
+      "url": "https://negativedialectics.org/",
+      "status": "direct_partial",
+      "read": "直接读Synthesis至Critique of Positive Negation L1228–1248网络英译，未核德文印本"
+    },
+    {
+      "status": "inherited_only",
+      "read": "F9/F10仅核冻结15号研究记录，非本轮重读原作"
+    }
+  ],
+  "paired_comparison": {
+    "code": "P06",
+    "blind_preference": "mixed",
+    "mapped_result": "mixed",
+    "post_unblinding_issues": [
+      "设计限制：首次匿名包未附完整题干；现已核冻结Q5/Q6。Q6只称可能不留意，并未断言每一习惯已经有害。盲判的条件性措辞疑点保留为歧义，不自动升级为确定错误；不回写盲判。Q5充分理由是否指客观充分或当事人自认充分也未定义，询问检验条件不直接算偷换题设。"
+    ],
+    "basis": "保留哈希锁定A-paired-blind.json的reasoning、expression及limits；仅据paired-mapping-private.json映射版本，不倒改初评。"
+  },
+  "original_report_sha256": "3e2999fd796633ceb0ae2a6744e0201e9db60c1233f619d5d84b813547a15b0d",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

@@ -1,0 +1,43 @@
+{
+  "plugin_modified": false,
+  "catalog_patch": "新增F9/F10两个独立一手作品；F9译者非合著作者；F8旧德文记录集中索引，仍未校",
+  "domain_evidence": {
+    "domain2": "F10教育/依附疗法",
+    "model": "否定不自动肯定",
+    "culture_supply": "F9独著补足合著外证据",
+    "domain1": "继承F6概念否定",
+    "status": "跨作品结构相似为研究者推论；不声称作者明示同一证明"
+  },
+  "canonical_modified": false,
+  "id": "adorno-perspective",
+  "frozen_modified": false,
+  "statistics": "No new 20-paragraph sample or voice-pass claim",
+  "role": "researcher_not_final_judge",
+  "date": "2026-10-13",
+  "note_file": "15-r2-primary-evidence.md",
+  "sources": [
+    {
+      "type": "primary_english_translation",
+      "version": "New German Critique 6 (1975),12–19；Anson G. Rabinbach译；正文署Adorno",
+      "url": "https://orgnets.cn/wp-content/uploads/2009/02/21-adorno-culture-industry.pdf",
+      "read": "印页12–15 L18–166；17–19 L213–295；页16未完整读"
+    },
+    {
+      "type": "primary_german_transcription",
+      "version": "1966讲演的现代转录，未核底本/版权页",
+      "url": "https://wasche-meine-haende.de/wp-content/uploads/2017/01/Erziehung_nach_Auschwitz_T_W_Adorno_1966.pdf",
+      "read": "L45–105连续；L106–116旁读"
+    }
+  ],
+  "remaining": [
+    "否定辩证法译本校勘",
+    "当代因果须另证",
+    "生成力/排他性未测"
+  ],
+  "expression_patch": "承认补救建议吸引力→追踪实际行动机制→机制复制问题才反转→内部自限→保留未解困难",
+  "modes": {
+    "textgame_persona": false,
+    "persona": "explicit_only",
+    "default": "neutral_thought"
+  }
+}
